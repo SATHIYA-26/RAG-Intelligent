@@ -1,0 +1,11 @@
+
+pandas
+numpy
+sentence-transformerspip 
+scikit-learn
+rank-bm25
+transformers
+torch
+spacy
+streamlit
+tqdm
